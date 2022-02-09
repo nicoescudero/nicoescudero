@@ -23,3 +23,9 @@ const aboutme={
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nicolas Escudero LinkedIn Profile" height="30" width="30">
   </a>
 </p>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoescudero&show_icons=true&theme=tokyonight)
+</div>
+
+
